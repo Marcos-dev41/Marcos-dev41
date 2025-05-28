@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Marcos-dev41
+- 👋 Hi, I’m Mark
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning javascript
+- 🌱 Front-end developer
+- 🐍 Python developer
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me Email :marcosndwarunjoroge254@gmail.com
 - 😄 Pronouns: He
